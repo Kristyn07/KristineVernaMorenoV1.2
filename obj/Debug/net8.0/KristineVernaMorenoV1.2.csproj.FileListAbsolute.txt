@@ -27,3 +27,4 @@ C:\Users\Kristine Verna\Desktop\TYN\KristineVernaMorenoV1.2\obj\Debug\net8.0\Kri
 C:\Users\Kristine Verna\Desktop\TYN\KristineVernaMorenoV1.2\obj\Debug\net8.0\KristineVernaMorenoV1.2.genruntimeconfig.cache
 C:\Users\Kristine Verna\Desktop\TYN\KristineVernaMorenoV1.2\obj\Debug\net8.0\ref\KristineVernaMorenoV1.2.dll
 C:\Users\Kristine Verna\Desktop\TYN\KristineVernaMorenoV1.2\bin\Debug\net8.0\KristineVernaMorenoV1.2.staticwebassets.runtime.json
+C:\Users\Kristine Verna\Desktop\TYN\KristineVernaMorenoV1.2\bin\Debug\net8.0\libman.json
