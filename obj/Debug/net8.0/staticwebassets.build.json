@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZwG44EK2crYPlhK1yOo4Uq1KUa/Mwi7viQGvX6Mrtmo=",
+  "Hash": "902oegNx40H08v0mJvppOhfevmjBIWmpZx/p6oiJxLg=",
   "Source": "KristineVernaMorenoV1.2",
   "BasePath": "_content/KristineVernaMorenoV1.2",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\css\\style.css",
+      "SourceId": "KristineVernaMorenoV1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\",
+      "BasePath": "_content/KristineVernaMorenoV1.2",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
     {
       "Identity": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\font\\Source_Code_Pro\\OFL.txt",
       "SourceId": "KristineVernaMorenoV1.2",
@@ -775,6 +794,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\tyn.png"
+    },
+    {
+      "Identity": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\js\\script.js",
+      "SourceId": "KristineVernaMorenoV1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\",
+      "BasePath": "_content/KristineVernaMorenoV1.2",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
       "Identity": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",

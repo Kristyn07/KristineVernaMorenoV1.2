@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\font\\Source_Code_Pro\\OFL.txt",
       "PackagePath": "staticwebassets\\font\\Source_Code_Pro\\OFL.txt"
     },
@@ -159,6 +163,10 @@
     {
       "Id": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\images\\tyn.png",
       "PackagePath": "staticwebassets\\images\\tyn.png"
+    },
+    {
+      "Id": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "C:\\Users\\Kristine Verna\\Desktop\\TYN\\KristineVernaMorenoV1.2\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
