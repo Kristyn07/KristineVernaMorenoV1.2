@@ -36,3 +36,49 @@ function updateLayoutBasedOnScreenSize() {
 window.onload = updateLayoutBasedOnScreenSize;
 window.onresize = updateLayoutBasedOnScreenSize;
 // #endregion
+
+// #region Color Theme
+    const toggleColorTheme = document.getElementById('toggle-color-theme');
+    const lightButton = document.querySelector('.go-to-dark-mode');
+    const darkButton = document.querySelector('.go-to-light-mode');
+    const systemTheme = localStorage.getItem('theme');
+
+// Apply the saved theme from localStorage (if any)
+if (systemTheme) {
+    document.body.classList.add(systemTheme);
+    if (systemTheme === 'dark-theme') {
+        darkMode();
+    }
+} else {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        darkMode();
+    } else {
+        lightMode();
+    }
+}
+
+if (darkButton) {
+    darkButton.addEventListener('click', function () {
+        lightMode();
+    })
+};
+
+if (lightButton) {
+    lightButton.addEventListener('click', function () {
+        darkMode();
+    })
+};
+
+function lightMode() {
+    lightButton.style.display = 'block';
+    darkButton.style.display = 'none';
+}
+
+function darkMode() {
+    lightButton.style.display = 'none';
+    darkButton.style.display = 'block';
+}
+// #endregion
+
+
+
